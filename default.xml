@@ -9,7 +9,7 @@
   
 
   <project name="astertom/meta-astertom" revision="bd9e0516b40f9f769ee731adfb287da9d7a105e7" remote="github" path="poky/meta-astertom" />
-  <project name="tomasz3dk/meta-beagle" revision="5de51210ef39de2e6218a413a10ae0c15813ad82" remote="github" path="poky/meta-beagle" />
+  <project name="tomasz3dk/meta-beagle" revision="30afa821b7dd40fc4259aa9801bac37e2e3b047d" remote="github" path="poky/meta-beagle" />
   <project name="poky" revision="fd33741e279702d8498fce47450cb1ea275e5e6b" remote="yocto" />
   <project name="meta-openembedded" revision="bbe3855ec7d7e1417a42e9d7a4d1d3d338812088"  remote="oe" path="poky/meta-openembedded" />
   <project name="meta-qt5" revision="a00af3eae082b772469d9dd21b2371dd4d237684"  remote="qt5" path="poky/meta-qt5" />
